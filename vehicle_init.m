@@ -4,7 +4,7 @@ clear all;
 Vehicle_Mass = 1700;%kg
 g = 9.8;%重力加速度
 A = 1.97;%迎风面积
-f0 = 0.021;        
+f0 = 0.021;        % rolling resistant coefficients
 f1 = 0;
 f4 = 0;
 r = 0.334;%滚动半径
