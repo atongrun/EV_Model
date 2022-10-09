@@ -2,6 +2,8 @@
 
 ## 课程简介	
 ![Github stars](https://img.shields.io/github/stars/suntong-1221/EV_Model.svg)
+[![Build status](https://ci.appveyor.com/api/projects/status/sb279kxuv1be391g?svg=true)](https://ci.appveyor.com/project/suntong-1221/EV_Model)
+
 
 
 ​该模型为纯电动汽车单电机整车模型🚗，整车模型可正常仿真运行，但是其中可能存在较大问题，同学们在学习的时候一定要辩证的看待，然后里面缺少几个表数据，这个并没有公开，因为是课题组的资源。
