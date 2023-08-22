@@ -1,33 +1,34 @@
-# 纯电动汽车simulink模型
+# Pure Electric Vehicle Simulink Model
 
-## 课程简介	
+## Course Introduction	
 ![Github stars](https://img.shields.io/github/stars/suntong-1221/EV_Model.svg)
 [![Build status](https://ci.appveyor.com/api/projects/status/sb279kxuv1be391g?svg=true)](https://ci.appveyor.com/project/suntong-1221/EV_Model)
 
 
+This model is a single-motor electric vehicle model 🚗, which can be simulated and run normally. However, please note that there may be significant issues within the model. When studying, it is important to approach it critically. The missing table data mentioned is not publicly available as it belongs to the research group and is considered their proprietary resource.
 
-​该模型为纯电动汽车单电机整车模型🚗，整车模型可正常仿真运行，但是其中可能存在较大问题，同学们在学习的时候一定要辩证的看待，然后里面缺少几个表数据，这个并没有公开，因为是课题组的资源。
+English | [简体中文](zh_cn_readme.md)
 
-+ 已经添加了2018a版本的模型文件
-+ B站链接：https://www.bilibili.com/video/BV1cm4y1S7Rs?spm_id_from=333.999.0.0
++ The model file for the 2018a version has been added.
++ Bilibili Link：https://www.bilibili.com/video/BV1cm4y1S7Rs?spm_id_from=333.999.0.0
   
 ---
 
-## 新增内容
+## New Content Added
 
-​	因为最初上传模型EV_v0.1版本缺少部分课题组内部数据，应同学要求，新增EM_v0.2版本，下载可正常运行，电机是随便找的硕士论文电机额定功率为34kw，最大转矩130Nm，然后我随便按照特性编的数据，电机效率固定为0.95，电池部分，直接给了固定内阻和固定单体电池电压。
+​	Due to the initial version (EV_v0.1) of the uploaded model lacking some internal research group data, and in response to student requests, a new version (EM_v0.2) has been added. The model can be downloaded and run smoothly. For the motor, a 34 kW rated power motor was selected from a random Master's thesis, with a maximum torque of 130 Nm. The motor characteristics were created based on approximate data, with a fixed efficiency of 0.95. As for the battery section, fixed internal resistance and fixed individual cell voltage values were provided directly.
 
-<font color=Red>注意事项</font>:underage:
+<font color=Red>Notes</font>:underage:
 
-+ 模型大致符合电动汽车特性，但是数据及其不可信
-+ 简单学习使用，辩证看待
++ The model roughly captures the characteristics of an electric vehicle, but the data is not reliable.
++ Intended for simple learning and reference purposes, or as a foundation.
 ---
-## 课程分节
+## Course Sections:
 
-1. [纯电动汽车simulink建模仿真-框架逻辑](https://www.bilibili.com/video/BV1cm4y1S7Rs/?spm_id_from=333.788&vd_source=df2f7337299806c5a1ed5a5f5b4ffd1d)
-2. [纯电动汽车simulink建模仿真-驾驶员模型](https://www.bilibili.com/video/BV1a3411Y7dg/?spm_id_from=333.788&vd_source=df2f7337299806c5a1ed5a5f5b4ffd1d)
-3. [纯电动汽车simulink建模仿真-电池模型](https://www.bilibili.com/video/BV1GT4y1y7TU/?spm_id_from=333.788&vd_source=df2f7337299806c5a1ed5a5f5b4ffd1d)
-4. [纯电动汽车simulink建模仿真-控制模型](https://www.bilibili.com/video/BV18L4y1s7W2/?spm_id_from=333.788&vd_source=df2f7337299806c5a1ed5a5f5b4ffd1d)
-5. [纯电动汽车simulink建模仿真-电机模型](https://www.bilibili.com/video/BV1Yq4y1b7PB/?spm_id_from=333.788&vd_source=df2f7337299806c5a1ed5a5f5b4ffd1d)
-6. [纯电动汽车simulink建模仿真-车身模型](https://www.bilibili.com/video/BV1kb4y177MD/?spm_id_from=333.788&vd_source=df2f7337299806c5a1ed5a5f5b4ffd1d)
-7. [纯电动汽车simulink建模仿真-仿真与欧拉算法](https://www.bilibili.com/video/BV1r5411o7Rg/?spm_id_from=333.788&vd_source=df2f7337299806c5a1ed5a5f5b4ffd1d)
+1. [Pure Electric Vehicle Simulink Modeling and Simulation - Framework Logic](https://www.bilibili.com/video/BV1cm4y1S7Rs/?spm_id_from=333.788&vd_source=df2f7337299806c5a1ed5a5f5b4ffd1d)
+2. [Pure Electric Vehicle Simulink Modeling and Simulation - Driver Model](https://www.bilibili.com/video/BV1a3411Y7dg/?spm_id_from=333.788&vd_source=df2f7337299806c5a1ed5a5f5b4ffd1d)
+3. [Pure Electric Vehicle Simulink Modeling and Simulation - Battery Model](https://www.bilibili.com/video/BV1GT4y1y7TU/?spm_id_from=333.788&vd_source=df2f7337299806c5a1ed5a5f5b4ffd1d)
+4. [Pure Electric Vehicle Simulink Modeling and Simulation - Control Model](https://www.bilibili.com/video/BV18L4y1s7W2/?spm_id_from=333.788&vd_source=df2f7337299806c5a1ed5a5f5b4ffd1d)
+5. [Pure Electric Vehicle Simulink Modeling and Simulation - Motor Model](https://www.bilibili.com/video/BV1Yq4y1b7PB/?spm_id_from=333.788&vd_source=df2f7337299806c5a1ed5a5f5b4ffd1d)
+6. [Pure Electric Vehicle Simulink Modeling and Simulation - Vehicle Model](https://www.bilibili.com/video/BV1kb4y177MD/?spm_id_from=333.788&vd_source=df2f7337299806c5a1ed5a5f5b4ffd1d)
+7. [Pure Electric Vehicle Simulink Modeling and Simulation - Simulation and Euler Algorithm](https://www.bilibili.com/video/BV1r5411o7Rg/?spm_id_from=333.788&vd_source=df2f7337299806c5a1ed5a5f5b4ffd1d)
