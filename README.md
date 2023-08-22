@@ -2,6 +2,7 @@
 
 ## Course Introduction	
 ![Github stars](https://img.shields.io/github/stars/suntong-1221/EV_Model.svg)
+[![Author](https://img.shields.io/badge/author-atong-violet.svg?style=flat-square)](https://github.com/atongrun)
 [![Build status](https://ci.appveyor.com/api/projects/status/sb279kxuv1be391g?svg=true)](https://ci.appveyor.com/project/suntong-1221/EV_Model)
 
 
