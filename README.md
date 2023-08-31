@@ -38,5 +38,5 @@ English | [简体中文](zh_cn_readme.md)
 This project is licensed under the MIT License. By using the code in this repository, you agree to comply with the terms and conditions of the MIT License. For more information, please refer to the LICENSE file.
 
 ## Contact
-If you have any questions or feedback regarding [EV_Model], please contact us at [Email](mailto:atongrun@outlook.com) .
+If you have any questions or feedback regarding [EV_Model], please contact me at [Email](mailto:atongrun@outlook.com) .
 

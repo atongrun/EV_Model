@@ -31,3 +31,9 @@
 5. [纯电动汽车simulink建模仿真-电机模型](https://www.bilibili.com/video/BV1Yq4y1b7PB/?spm_id_from=333.788&vd_source=df2f7337299806c5a1ed5a5f5b4ffd1d)
 6. [纯电动汽车simulink建模仿真-车身模型](https://www.bilibili.com/video/BV1kb4y177MD/?spm_id_from=333.788&vd_source=df2f7337299806c5a1ed5a5f5b4ffd1d)
 7. [纯电动汽车simulink建模仿真-仿真与欧拉算法](https://www.bilibili.com/video/BV1r5411o7Rg/?spm_id_from=333.788&vd_source=df2f7337299806c5a1ed5a5f5b4ffd1d)
+
+## 许可证
+本项目采用 MIT 许可证进行许可。通过使用本代码库中的代码，您同意遵守 MIT 许可证的条款和条件。有关更多信息，请参阅 LICENSE 文件。
+
+## 联系方式
+如果您对 [EV_Model] 有任何问题或反馈意见，请通过[Email](mailto:atongrun@outlook.com)电子邮件联系。
