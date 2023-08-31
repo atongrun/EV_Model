@@ -33,3 +33,10 @@ English | [简体中文](zh_cn_readme.md)
 5. [Pure Electric Vehicle Simulink Modeling and Simulation - Motor Model](https://www.bilibili.com/video/BV1Yq4y1b7PB/?spm_id_from=333.788&vd_source=df2f7337299806c5a1ed5a5f5b4ffd1d)
 6. [Pure Electric Vehicle Simulink Modeling and Simulation - Vehicle Model](https://www.bilibili.com/video/BV1kb4y177MD/?spm_id_from=333.788&vd_source=df2f7337299806c5a1ed5a5f5b4ffd1d)
 7. [Pure Electric Vehicle Simulink Modeling and Simulation - Simulation and Euler Algorithm](https://www.bilibili.com/video/BV1r5411o7Rg/?spm_id_from=333.788&vd_source=df2f7337299806c5a1ed5a5f5b4ffd1d)
+
+## License
+This project is licensed under the MIT License. By using the code in this repository, you agree to comply with the terms and conditions of the MIT License. For more information, please refer to the LICENSE file.
+
+## Contact
+If you have any questions or feedback regarding [EV_Model], please contact us at [Email](mailto:atongrun@outlook.com) .
+
